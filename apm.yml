@@ -6,10 +6,8 @@ author: Razvan Vancea
 # Resolution order: --target flag > this field > auto-detect from filesystem.
 # Accepted values: vscode, agents, copilot, claude, cursor, opencode, codex,
 # gemini, antigravity, windsurf, kiro, agent-skills, all
-targets:
-- copilot
 dependencies:
   apm: []
-  mcp: []
-includes: auto
+  mcp:
+    - com.atlassian/atlassian-mcp-server
 scripts: {}
