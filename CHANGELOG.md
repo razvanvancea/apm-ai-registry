@@ -18,6 +18,21 @@ This project follows Semantic Versioning.
 
 ### Security
 
+## [1.0.1]
+
+### Added
+- added `changelog` and `release` md files
+
+### Changed
+
+### Fixed
+
+### Removed
+
+### Deprecated
+
+### Security
+
 ## [1.1.0] - 2026-06-23
 
 ### Added
