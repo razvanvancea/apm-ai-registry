@@ -1,6 +1,6 @@
 ---
 name: readme-specialist
-description: Specialized agent for creating and improving README files and project documentation.
+description: Specialized agent for creating and improving README files and project documentation
 tools: ['read', 'search', 'edit']
 ---
 
